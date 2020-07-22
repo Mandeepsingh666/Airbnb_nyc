@@ -4,11 +4,12 @@ Airbnb_nyc
 - [Overview](#overview)
 - [Motivation](#motivation)
 - [Technical Aspects](#technical-aspects)
-- [Demo](#demo)
+- [Preview](#preview)
 - [Installation](#installation)
 - [Bug/Feature request](#bug-feature-request)
 - [Technologies Used](#technologies-used)
 - [Credits](#credits)
+
 
 
 
@@ -27,7 +28,7 @@ What could be a perfect way to utilize an unfortunate lockdown period? Like most
  
  
  
- ## Demo
+ ## Preview 
   <img src="https://github.com/Mandeepsingh666/Airbnb_nyc/blob/master/Screen%20Shot%202020-07-10%20at%203.13.22%20AM.png?raw=true">
  <img src="https://github.com/Mandeepsingh666/Airbnb_nyc/blob/master/Screen%20Shot%202020-07-10%20at%203.14.01%20AM.png?raw=true">
  
